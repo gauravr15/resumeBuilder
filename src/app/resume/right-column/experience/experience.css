@@ -1,0 +1,12 @@
+.experience-entry {
+  margin-bottom: 20px;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+.experience-entry .header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  color: #34495e;
+}
